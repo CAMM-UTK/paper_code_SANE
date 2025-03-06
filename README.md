@@ -121,6 +121,13 @@ y_bad = y_bad/len(idx_bad)
 y_vote = np.hstack((y_vote, (y_bad - y_good))) # Maximizing the target constraint
 ```
 
+### Support
+
+The authors acknowledge the use of facilities and instrumentation at the UT Knoxville Institute for Advanced Materials and Manufacturing (IAMM) and the Shull Wollan Center (SWC) supported in part by the National Science Foundation Materials Research Science and Engineering Center program through the UT Knoxville Center for Advanced Materials and Manufacturing [DMR-2309083](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309083&HistoricalAwards=false). AFM measurements were performed at the Center for Nanophase Materials Sciences (CNMS), which is a US Department of Energy, Office of Science User Facility at ORNL.
+
+<img width="400px" src="https://mrsec.org/sites/default/files/MRSEC%20logo_clear%20background.png">
+
+
 ## References
 [1] Fujino, S.; Murakami, M.; Anbusathaiah, V.; Lim, S.-H.; Nagarajan, V.; Fennie, C. J.; Wuttig, M.; Salamanca-Riba, L.; Takeuchi, I. Combinatorial Discovery of a Lead-Free Morphotropic Phase Boundary in a Thin-Film Piezoelectric Perovskite. Appl. Phys. Lett. 2008, 92 (20), 202904. https://doi.org/10.1063/1.2931706.
 
