@@ -127,6 +127,6 @@ y_vote = np.hstack((y_vote, (y_bad - y_good))) # Maximizing the target constrain
 [2] Pratiush, U.; Funakubo, H.; Vasudevan, R.; Kalinin, S. V.; Liu, Y. Scientific Exploration with Expert Knowledge (SEEK) in Autonomous Scanning Probe Microscopy with Active Learning. arXiv August 4, 2024. https://doi.org/10.48550/arXiv.2408.02071
 
 # Citation
-Please cite our arxiv paper if you use the model for your experiments. Please refer to *arpanbiswas52@gmail.com* for any question, bugs and feedbacks
+Please cite our paper if you use the model for your experiments. Please refer to *arpanbiswas52@gmail.com* for any question, bugs and feedbacks
 
-Arpan Biswas, Rama Vasudevan, Rohit Pant, Ichiro Takeuchi, Hiroshi Funakubo, Yongtao Liu. SANE: Strategic Autonomous Non-Smooth Exploration for Multiple Optima Discovery in Multi-modal and Non-differentiable Black-box Functions. arXiv preprint arXiv:2409.12295. 
+Arpan Biswas, Rama Vasudevan, Rohit Pant, Ichiro Takeuchi, Hiroshi Funakubo, Yongtao Liu. SANE: Strategic Autonomous Non-Smooth Exploration for Multiple Optima Discovery in Multi-modal and Non-differentiable Black-box Functions. Digital Discovery, 2025, Advance Article, DOI: 10.1039/D4DD00299G. 
